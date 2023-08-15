@@ -1,3 +1,8 @@
+# Dominoes (Python)
+# https://github.com/imprvhub/dominoes-jbrains
+# Project Completed By Iván Luna, August 15, 2023
+# For Hyperskill (Jet Brains Academy). Course: Python Core
+
 import random
 
 def get_domino_pieces(n): 
